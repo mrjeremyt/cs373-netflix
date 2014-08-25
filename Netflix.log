@@ -1,0 +1,47 @@
+commit 6d144668f62ab34263c731a940264fd7ef39792a
+Author: majisto <majisto@gmail.com>
+Date:   Wed Jun 25 18:42:51 2014 -0500
+
+    Comments and assertions added.  Also ran pydoc. Fixes #6 Fixes #18 Fixes #19
+
+commit ffb87a28d289c9ecec4ca5f1e19fb0068a6e7921
+Author: majisto <majisto@gmail.com>
+Date:   Wed Jun 25 17:52:49 2014 -0500
+
+    User submissions done. Fixes #16
+
+commit b88d0be622ca4320d5790cd5e25ce05af81154bf
+Author: majisto <majisto@gmail.com>
+Date:   Wed Jun 25 17:26:34 2014 -0500
+
+    Have test cases, and fixed the ratings_list to store only 1 precision floating numbers now. This is ready to be turned in, but will continue to try and whittle down the RMSE.  Fixes #2 Fixes #3 Fixes #4 Fixes #20 Fixes #21
+
+commit fbe0e9ed901dd8eff375a65c4396a58e0c597676
+Author: majisto <majisto@gmail.com>
+Date:   Wed Jun 25 04:37:59 2014 -0500
+
+    RMSE of 0.9711 on probe data.  Fixes #14 Fixes #13 Fixes #11 Fixes #10 Fixes #5
+
+commit c793611e5edf8ab2f9b3fd3ff7b070897c52fe05
+Author: majisto <majisto@gmail.com>
+Date:   Wed Jun 25 03:45:07 2014 -0500
+
+    RMSE dropping, but still above 1.0.  Using customer_averages now instead of one average number.  Fixes #13 Fixes #11
+
+commit c48b68a54a826956d1f231f47e664def524c0920
+Author: majisto <majisto@gmail.com>
+Date:   Tue Jun 24 22:45:42 2014 -0500
+
+    Input working and rmse seems to be returning proper values.  Still need to do a good algorithm.  Current rmse is 1.0905.  Fixes #1 Fixes #12 Fixes #15.
+
+commit 52565e40dbfc5be8d96cdb70d1ae10f5414f67c1
+Author: majisto <majisto@gmail.com>
+Date:   Mon Jun 23 20:04:24 2014 -0500
+
+    Starting on program layout.  Not much at this stage.
+
+commit f601b2d07bcc0f3c996d04ab30daf58bcf66df2b
+Author: Barton Durbin <majisto@gmail.com>
+Date:   Mon Jun 23 15:36:48 2014 -0500
+
+    Initial commit
